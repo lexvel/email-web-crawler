@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 ### Usage
 
-Command line usage example:
+Type in command line:
 
 ```
 python ewc.py https://www.python.org --depth=1
